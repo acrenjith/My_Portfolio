@@ -1,5 +1,5 @@
 # Clever Programmer ReactJS Portfolio Template      
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5f1463af-f147-410e-a92c-fba4c68518b3/deploy-status)](https://app.netlify.com/sites/renjith-portfolio/deploys)
 ## 👇 WATCH THIS FIRST 👇
 ## https://tinyurl.com/customizeReactPortfolio
 
