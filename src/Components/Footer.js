@@ -23,8 +23,8 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; All credit goes to Renjith Chandrasekhar - Copyright 2022 Renjith Chandrasekhar</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Renjith</a></li>
+              <li>&copy; All credit goes to Renjith C- Copyright 2022 Renjith C</li>
+              <li>Design by <a title="Renjith" href="http://www.styleshout.com/">Renjith</a></li>
            </ul>
 
         </div>
