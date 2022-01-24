@@ -1,7 +1,6 @@
 <<<<<<< HEAD
-# ReactJS Portfolio Template      
-
-   
+## ReactJS Portfolio Template   
+>>>>>>> bff6290a87694fe26b2a2bdb8aff653c58fd2b5d
 #[Netlify Status](https://api.netlify.com/api/v1/badges/5f1463af-f147-410e-a92c-fba4c68518b3/deploy-status)](https://app.netlify.com/sites/renjith-portfolio/deploys)
 >>>>>>> c78e65d8980e18e37277c398e1f469bfa0e550f8
 ## 👇 WATCH THIS FIRST 👇
