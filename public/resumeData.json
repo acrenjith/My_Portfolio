@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Renjith Chandrasekhar",
-    "occupation": "ReactJS FrontEnd Developer  @SREYO",
+    "occupation": "ReactJS FrontEnd Developer  @SREYO LLC",
     "description": "",
     "image": "renji.jpg",
-    "bio": "My name is Renjith, I'm a Full Stack ReactJS Developer. Currently I'm working at Sreyo ",
+    "bio": "My name is Renjith, I'm a Full Stack ReactJS Developer. Currently I'm working at Sreyo LLC ",
     "contactmessage": "Get in touch with me to receive further details",
     "email": "renjisekhar14@gmail.com",
     "phone": "+1 516 886 7280",
@@ -56,7 +56,7 @@
         "company": "Horizon INC",
         "title": "Programmer Analyst",
         "years": "Apr 2013 - Dec 2016",
-        "description": "Develeloping Web Applications."
+        "description": "Web Application Developer"
       }
     ],
     "skills": [
@@ -116,7 +116,7 @@
       },
       {
         "text": "That Renjith must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "user": "Garrett Chelies"
       }
     ]
   }
