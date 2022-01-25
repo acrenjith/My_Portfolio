@@ -57,7 +57,13 @@
       {
         "company": "VISA",
         "title": "Programmer Analyst",
-        "years": "Apr 2013 - Dec 2016",
+        "years": "Apr 2015 - Dec 2016",
+        "description": "Web Application Developer"
+      },
+      {
+        "company": "NRG Energy",
+        "title": "Programmer Analyst",
+        "years": "Apr 2013 - Dec 2015",
         "description": "Web Application Developer"
       }
     ],
